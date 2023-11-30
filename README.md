@@ -5,21 +5,21 @@ Explore a variety of Python projects that showcase different aspects of the lang
 ## Anecdote Blog Post Using Flask 📝
 
 - **Description**: Dive into web development with this project that creates a simple blog using the Flask framework. Share your anecdotes and stories with an intuitive web interface.
-- **Project Link**: [Anecdote Blog Post](https://github.com/ashay-thamankar/python_projects/tree/main/anecdote_blog_post)
+- **Project Link**: [Anecdote Blog Post](https://github.com/ashay-thamankar/python_projects/tree/main/anecdote_blog_post_using%20FLASK#anecdote-blog-post-using-flask-)
 
 ## Pong Game Using Turtle 🎮
 
 - **Description**: Unleash your game development skills with this classic Pong game created using Python's Turtle graphics library. Challenge your friends or improve your own score!
-- **Project Link**: [Pong Game Using Turtle](https://github.com/ashay-thamankar/python_projects/tree/main/pong_game_using_turtle)
+- **Project Link**: [Pong Game Using Turtle](https://github.com/ashay-thamankar/python_projects/tree/main/pong_game_using_turtle#python-pong-game-)
 
 ## Snake Game Using Turtle 🐍🕹️
 
 - **Description**: Enjoy the nostalgia of the Snake game recreated in Python. Guide the snake to collect food and grow longer without crashing into walls or yourself.
-- **Project Link**: [Snake Game Using Turtle](https://github.com/ashay-thamankar/python_projects/tree/main/snake_game_using_turtle)
+- **Project Link**: [Snake Game Using Turtle](https://github.com/ashay-thamankar/python_projects/tree/main/snake_game_using_turtle#python-snake-game-)
 
 ## Web Scraping Projects 🌐🤖
 
-Discover the world of web scraping through these Python projects. These projects demonstrate how to extract data from websites for various applications.
+Discover the world of web scraping through these Python projects. These projects demonstrate how to extract data from websites for various applications. [Web Scraping Projects](https://github.com/ashay-thamankar/python_projects/blob/main/web_scraping/readme.md#web-scraping-projects-)
 
 ### NBA Players Stats Data Using Selenium 🏀📊
 
